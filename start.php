@@ -11,14 +11,14 @@ if (!$innloggetBruker)
 
 <html>
 <head>
-    <title>Obligatorisk Oppgave 2</title>
+    <title>Student App</title>
     <link rel="stylesheet" type="text/css" href="style.css" media="screen" title="stilark" />
 </head>
 <body class="style">
     <div id="box">
 
         <header class="head">
-            <h1>Obligatorisk Oppgave 2</h1>
+            <h1>Student App</h1>
         </header>
 <nav>
     <h3>Funksjoner</h3>
